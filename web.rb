@@ -1,5 +1,6 @@
 require 'sinatra'
 
+
 get '/' do
-  "Jetfive.com"
+  erb :index
 end

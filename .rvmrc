@@ -1,1 +1,1 @@
-rvm use 2.0.0@jetfive-heroku
+rvm use 1.9.3@jetfive-heroku
