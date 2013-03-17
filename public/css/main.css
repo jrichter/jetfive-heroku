@@ -1,0 +1,31 @@
+body {
+  font-family: Sans;
+  font-size: 14px;
+}
+a {
+  color: #077BBD;
+  text-decoration: none;
+  font-family:Tahoma,Verdana,Arial;
+}
+#wrapper {
+  width:950px;
+  padding:5px;
+  margin:auto;
+}
+#wrapper h1 {
+  font-family:'Poiret One', cursive;
+  font-size:68px;
+  font-weight:400;
+  padding-bottom:10px;
+}
+#wrapper p {
+  padding: 5px 2px 5px 2px;
+}
+.left {
+  float:left;
+  width:420px;
+}
+.right {
+  float:right;
+  width:520px;
+}
